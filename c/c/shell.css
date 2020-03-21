@@ -1,5 +1,6 @@
-@font-face { font-family: "MesloLGS NF"; src: url("/d/f/MesloLGS-NF-Regular.ttf"); }
-body { background: #0e0e0e; color: #cb8bb9; font-family: "MesloLGS NF"; }
+@font-face { font-family: "MesloLGS NF"; src: url("/c/f/MesloLGS-NF-Regular.ttf"); }
+body { font-family: "MesloLGS NF"; }
+div.page { background: #0e0e0e; color: #cb8bb9; }
 .s0 { color: #3e5e51; }
 .s1 { color: #d26841; }
 .s2 { color: #3db186; }

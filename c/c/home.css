@@ -1,0 +1,5 @@
+@import url('/c/c/shell.css');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,500;1,700&display=swap');
+body { font-family: "Libre Franklin"; margin: 0; background: url('/c/i/802.jpg'); background-position: center; }
+div.ff { display: flex; justify-content: space-between; }
+div.ff > a { flex-grow: 1; display: block; }

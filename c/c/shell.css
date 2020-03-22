@@ -1,6 +1,7 @@
 @font-face { font-family: "MesloLGS NF"; src: url("/c/f/MesloLGS-NF-Regular.ttf"); }
-body { font-family: "MesloLGS NF"; }
-div.page { background: #0e0e0e; color: #cb8bb9; }
+body { font-family: "MesloLGS NF"; margin: 0; }
+div.page { background: #0e0e0e; color: #cb8bb9; width: 900px; min-height: 100vh; margin: auto; padding: 8px; border-width: 8px; border-color: #cb8bb9; border-style: none ridge; }
+hr { display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px; border-color: #cb8bb9; }
 .s0 { color: #3e5e51; }
 .s1 { color: #d26841; }
 .s2 { color: #3db186; }

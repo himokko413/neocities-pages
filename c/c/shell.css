@@ -1,5 +1,6 @@
-@font-face { font-family: "MesloLGS NF"; src: url("/c/f/MesloLGS-NF-Regular.ttf"); }
-body { font-family: "MesloLGS NF"; margin: 0; }
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap');
+body { font-family: "Libre Franklin", "Kosugi Maru"; margin: 0; }
 div.page { background: #0e0e0e; color: #cb8bb9; width: 900px; min-height: 100vh; margin: auto; padding: 8px; border-width: 8px; border-color: #cb8bb9; border-style: none ridge; }
 a { color: #fcbed5; }
 a:visited { color: #cb8bb9; }

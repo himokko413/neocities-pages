@@ -36,7 +36,7 @@
             "description": "hey. im lucy, the original singlet (kind of, long story). i'm very nerdy and geeky but many see me as a sweet girl. also i'm easily embarrassed. idk how good i am in stuff but i like to think i do pretty well.",
             "proxy": "l/[message]",
             "avatar": {
-                "img": "https://butterfly42.neocities.org/a/p/a/lucy.png",
+                "img": "https://butterfly42.neocities.org/a/p/i/lucy.png",
                 "imgsrc": "original avatar made in VRoid Studio",
                 "imgurl": "https://vroid.com/studio"
             },
@@ -118,6 +118,41 @@
                 "imgurl": ""
             }
         },
+        "tsubasahanekawa": {
+            "name": [
+                "Tsubasa Hanekawa",
+                "羽川翼"
+            ],
+            "title": "Just What She Knows",
+            "pronouns": "she/her",
+            "main": false,
+            "type": "endogenic fictive",
+            "source": "Monogatari series",
+            "creator": "",
+            "role": "resident genius",
+            "contact": "",
+            "birth": {
+                "age": "18",
+                "year": "2002",
+                "month": "??",
+                "date": "??"
+            },
+            "col": "0",
+            "wep": "5",
+            "mov": "0",
+            "description": "",
+            "proxy": "th/[message]",
+            "avatar": {
+                "img": "https://butterfly42.neocities.org/a/p/a/tsubasahanekawa.png",
+                "imgsrc": "concept art, courtesy VOFAN",
+                "imgurl": ""
+            },
+            "portrait": {
+                "img": "https://butterfly42.neocities.org/a/p/p/tsubasahanekawa.png",
+                "imgsrc": "concept art, courtesy VOFAN",
+                "imgurl": ""
+            }
+        },
         "hina": {
             "name": [
                 "Hina",
@@ -190,7 +225,7 @@
                 "imgurl": ""
             }
         },
-        "tsubasa": {
+        "tsubasaoribe": {
             "name": [
                 "Tsubasa",
                 "Tsubasa Oribe",
@@ -214,14 +249,14 @@
             "wep": "1",
             "mov": "3",
             "description": "hi, my name is Tsubasa Oribe, im 18 (she her) and i want to be an idol because i want to pelp hheople. anyway, i get embarrassed easily but i love singing and dancing and being the idol everyone adores!!!",
-            "proxy": "ts/[message]",
+            "proxy": "to/[message]",
             "avatar": {
-                "img": "https://butterfly42.neocities.org/a/p/a/tsubasa.png",
+                "img": "https://butterfly42.neocities.org/a/p/a/tsubasaoribe.png",
                 "imgsrc": "screenshot, courtesy ATLUS/INTELLIGENT SYSTEMS",
                 "imgurl": ""
             },
             "portrait": {
-                "img": "https://butterfly42.neocities.org/a/p/p/tsubasa.png",
+                "img": "https://butterfly42.neocities.org/a/p/p/tsubasaoribe.png",
                 "imgsrc": "official art, courtesy ATLUS/INTELLIGENT SYSTEMS",
                 "imgurl": ""
             }

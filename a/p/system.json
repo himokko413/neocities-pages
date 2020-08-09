@@ -128,7 +128,7 @@
             "main": false,
             "type": "endogenic fictive",
             "source": "Monogatari series",
-            "creator": "",
+            "creator": "Lucy",
             "role": "resident genius",
             "contact": "",
             "birth": {
@@ -214,6 +214,40 @@
             "mov": "3",
             "description": "",
             "proxy": "ma/[message]",
+            "avatar": {
+                "img": "https://butterfly42.neocities.org/a/p/a/makoto.png",
+                "imgsrc": "C-WAVE on pixiv",
+                "imgurl": "https://www.pixiv.net/artworks/69846491"
+            },
+            "portrait": {
+                "img": "https://butterfly42.neocities.org/a/p/p/makoto.png",
+                "imgsrc": "official artwork, courtesy of Mamoru Hosoda / MADHOUSE",
+                "imgurl": ""
+            }
+        },
+        "rakuchan": {
+            "name": [
+                "Raku-chan"
+            ],
+            "title": "Nyaaaa Desu",
+            "pronouns": "she/her",
+            "main": false,
+            "type": "endogenic fictive",
+            "source": "Nyan Neko Sugar Girls",
+            "creator": "Hina",
+            "role": "... meme?",
+            "contact": "",
+            "birth": {
+                "age": "23",
+                "year": "1996",
+                "month": "??",
+                "date": "??"
+            },
+            "col": "2",
+            "wep": "2",
+            "mov": "0",
+            "description": "",
+            "proxy": "ra/[message]",
             "avatar": {
                 "img": "https://butterfly42.neocities.org/a/p/a/makoto.png",
                 "imgsrc": "C-WAVE on pixiv",

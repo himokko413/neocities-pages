@@ -1,0 +1,53 @@
+<meta charset="UTF-8">
+<img src="tms-textbox.png" draggable="false">
+<img id="pic" src="pic.png" draggable="false">
+<p id="name"></p>
+<p id="quote"></p>
+<style>
+body {
+  font-family: "Helvetica";
+  background: black;
+}
+img#pic {
+  position: absolute;
+  top: 33px;
+  left: 19px;
+  height: 120px;
+  width: 120px;
+  border-radius: 10%;
+  z-index: -1
+}
+p#name {
+  font-size: 48px;
+  color: #333;
+  position: absolute;
+  top: 27px;
+  left: 190px;
+  width: 500px;
+  text-align: center;
+}
+p#quote {
+  color: #fefefe;
+  font-size: 64px;
+  letter-spacing: 2px;
+  line-height: 76px;
+  -webkit-text-stroke: 6px #424443;
+  paint-order: stroke fill;
+  position: absolute;
+  top: 75px;
+  left: 190px;
+  width: 1400px;
+  height: 230px;
+  overflow: hidden;
+}
+st {
+  color: #70f0f9;
+}
+hl {
+  color: #f64764;
+}
+</style>
+<script>
+  var highlight = document.registerElement('hl');
+  var stateText = document.registerElement('st');
+</script>
